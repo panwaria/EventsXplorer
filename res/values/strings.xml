@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Events Xplorer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">Events Xplorer</string>
+    <string name="title_activity_eventsmap">EventsMapActivity</string>
+
+    
+    <string name="main_location">City</string>
+    <string name="search">Look for Events!</string>
+    
+</resources>
